@@ -12,7 +12,7 @@ An interactive visualization of key insights from the job postings dataset, incl
 ### 2. **Analysis**
 A detailed breakdown of required skills for each job category, highlighting skill likelihood, salary correlations, and role-specific competency profiles.  
   
-[Checkout my work here](Project_1%Analysis)  
+[Checkout my work here](Project_2%20Analysis)  
   
 <img width="678" height="412" alt="image" src="https://github.com/user-attachments/assets/9d4c4bee-7ffc-497a-9792-6996713d50f1" />  
 <img width="613" height="399" alt="image" src="https://github.com/user-attachments/assets/b11aaddb-afa3-47a4-8c4f-4cd67bd06daa" />  
